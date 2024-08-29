@@ -1,0 +1,9 @@
+1,Perro,8,3,2
+2,Mochila,11,2,1
+3,Mimico,10,5,0
+4,Fanta,13,4,2
+5,Libertus,15,3,1
+6,Mercader,14,5,0
+7,Sadam Husein,13,3,2
+8,Jose Placencia,17,6,3
+9,Nil Jou,13,4,0
